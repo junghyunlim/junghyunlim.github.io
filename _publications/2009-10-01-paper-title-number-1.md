@@ -1,4 +1,5 @@
 ---
+title:"The Path from Trade to Right-wing Populism in Europe"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 link: https://www.sciencedirect.com/science/article/abs/pii/S0261379418303779
