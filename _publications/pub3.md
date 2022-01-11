@@ -3,7 +3,6 @@ title: "The Political Consequences of International Migration in Sending Countri
 collection: publications
 permalink: /publication/pub3
 date: 2021-01-03
-venue: 'Comparative Political Studies'
 paperurl:  '/files/Migration_Sending_Countries.pdf'
 citation: 'Lim, Junghyun, Conditionally Accepted, &quot; The Political Consequences of International Migration in Sending Countries &quot; <i>Comparative Political Studies</i>. '
 ---
