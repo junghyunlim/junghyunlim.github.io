@@ -1,5 +1,5 @@
 ---
-tittle: "The Political Consequences of International Migration in Sending Countries"
+title: "The Political Consequences of International Migration in Sending Countries"
 collection: publications
 permalink: /publication/pub3
 paperurl:  '/files/Migration_Sending_Countries.pdf'
