@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Junghyun Lim"
   avatar           : "Lim.png"
-  bio              : "Postdoctoral Fellow"
-  location         : "Philadelphia, PA"
-  employer         :
+  bio              : "Assistant Professor of Political Science"
+  location         : ""
+  employer         : "The University of North Carolina, Chapel Hill"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pia9kOsAAAAJ&hl=en&oi=ao"
-  email            : "junglim@upenn.edu"
+  email            : "junglim@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Jhyun_Lim"  #"KevTGreene"
+  twitter          : "Jhyun_Lim"  
   vine             :
   weibo            :
   xing             :
