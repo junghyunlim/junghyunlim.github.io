@@ -1,5 +1,5 @@
 ---
-#title: ""
+title: ""
 collection: publications
 permalink: /publication/pub3
 #paperurl:  ''

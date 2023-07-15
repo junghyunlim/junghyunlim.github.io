@@ -82,8 +82,8 @@ author:
   name             : "Junghyun Lim"
   avatar           : "Lim.png"
   bio              : "Assistant Professor of Political Science"
-  location         : ""
-  employer         : "The University of North Carolina, Chapel Hill"
+  location         : #""
+  employer         : "UNC, Chapel Hill"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pia9kOsAAAAJ&hl=en&oi=ao"
   email            : "junglim@unc.edu"
