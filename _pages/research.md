@@ -21,9 +21,9 @@ author_profile: true
 
 ### Political Economy of Migration/Globalization
 
-- &quot;Left Behind to Get Ahead: Globalization, Internal Migration, and Political Change in Emerging Economies &quot; (w/ Benjamin Helms) <i>Under Review</i>
+- &quot;Left Behind to Get Ahead: Globalization, Internal Migration, and Political Change in Emerging Economies &quot; (w/ Benjamin Helms) <i> Under Review</i>
 
-- &quot; International source of hostility toward refugees &quot; (w/ Chloe Ahn)  <i>Under Review</i>
+- &quot; International source of hostility toward refugees &quot; (w/ Chloe Ahn)  <i> Under Review</i>
 
 - &quot; Migration, Social Ties, and Political Preferences &quot; (w/ William Marble) 
 
@@ -32,6 +32,8 @@ author_profile: true
 - &quot; Gendered Pattern of Return Migration Flows of Highly Skilled Immigrants &quot; (w/ Alireza Javadian Sabet, and Morgan Frank)
 
 - &quot; Broadening of the Deepening: The Effect of Eurozone and Schengen Expansion on EU Legitimacy &quot; (w/ Lauren L. Ferry, Anna M. Meyerrose, Nina Obermeier) 
+
+- &quot; Cultural Backlash to Globalization: Evidence from K-Pop &quot; (w/ Chloe Ahn)
 
 
 ### Energy, Labor, and Migration
