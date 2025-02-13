@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses taught at UNC
+
 
 <u>POLI442: International Political Economy </u> (undergraduate)
 
