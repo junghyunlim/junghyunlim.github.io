@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed publications
 
-- Helms, Benjamin, and Junghyun Lim. &quot;Globalization, Internal Migration, and Public Goods Provision in Emerging Economies.&quot; Forthcoming. <i>American Journal of Political Science</i>
+- Helms, Benjamin, and Junghyun Lim. &quot;Globalization, Internal Migration, and Public Goods Provision in Emerging Economies.&quot; Forthcoming. <i>American Journal of Political Science</i> [link]('/files/Helms_Lim_globalization_internal_migration.pdf')
 
 - Kenwick, Michael, Junghyun Lim, Skyler Crane, Scott Wehrwein, Beth A. Simmons. &quot;Estimating the legibility of international borders.&quot; 2025. <i>the Proceedings of the National Academy of Sciences</i>. 122(6) e2417812122. [doi](https://doi.org/10.1073/pnas.2417812122)
 
@@ -23,7 +23,7 @@ author_profile: true
 
 ### Political Economy of Migration & Globalization
 
-- &quot;Depopulation paradox? Exploring the impact of depopulation risk on immigration policy preferences&quot;
+- &quot;Depopulation paradox? Exploring the impact of depopulation risk on immigration policy preferences&quot; 
 
 - &quot;International source of hostility toward refugees&quot; (w/ Chloe Ahn)  <i> Under Review</i>
 
