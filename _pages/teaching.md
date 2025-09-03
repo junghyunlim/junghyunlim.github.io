@@ -7,9 +7,9 @@ author_profile: true
 
 
 
-<u>POLI442: International Political Economy </u> (undergraduate)
+<u>International Political Economy </u> (undergraduate)
 
-<u>POLI255H: International Migration and Citizenship </u> (undergraduate)
+<u>International Migration and Citizenship </u> (undergraduate)
 
-<u>POLI281: Data in Politics I</u> (undergraduate)
+<u>Data in Politics I</u> (undergraduate)
 
