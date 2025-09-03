@@ -21,14 +21,13 @@ author_profile: true
 
 ## Selected Work in Progress
 
-### Political Economy of Migration/Globalization
+### Political Economy of Migration & Globalization
 
+- &quot;Depopulation paradox? Exploring the impact of depopulation risk on immigration policy preferences&quot;
 
 - &quot;International source of hostility toward refugees&quot; (w/ Chloe Ahn)  <i> Under Review</i>
 
 - &quot;Migration, Social Ties, and Political Preferences&quot; (w/ William Marble) 
-
-- &quot;Exploring the impact of depopulation risk on immigration policy preferences&quot;
 
 - &quot;Gendered Pattern of Return Migration Flows of Highly Skilled Immigrants&quot; (w/ Alireza Javadian Sabet, and Morgan Frank)
 
